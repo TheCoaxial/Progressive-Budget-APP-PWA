@@ -1,0 +1,23 @@
+{
+    "name": "budget app",
+    "short_name": "Budget",
+    "start_url": "/",
+    "orientation": "portrait",
+    "display": "standalone",
+    "description": "An application that allows you to track and manage your budget.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "./icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+    
+}
