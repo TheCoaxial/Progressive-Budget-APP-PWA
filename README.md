@@ -6,6 +6,7 @@ The app will also draw a graph based off of the users input.
 [Live Site](https://serene-headland-24291.herokuapp.com/)
 
 # Screenshot from deployed site
+![Screenshot](screencap/Capture.PNG)
 
 # License
 Begin license text.
